@@ -375,7 +375,7 @@
   </script>
 </body>
     <p class="go">歡迎來到荒野的世界!</p>
-  <p class="small">目前在這個「荒野」裡，已經有 104 位強大英雄等著你解鎖！</p>
+  <p class="small">目前在這個「荒野」裡，已經有 111 位強大英雄等著你解鎖！</p>
   
   <p class="go" id="introduction">簡介<img src="emoji_pierce_gg.png" style="width:50px;"></p>
   <p style="padding-left: 20px;">在這個荒野裡，有多種模式：荒野死鬥，寶石爭霸，亂鬥足球，淘汰賽...</p>
